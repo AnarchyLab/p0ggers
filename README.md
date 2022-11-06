@@ -6,9 +6,8 @@
 <p align="center">
     Malware implementation in Go Anarchy Lab
 </p>
-<br>
 
 ## 🚧 Under Development
 
-## Contact
+## Contact 📫
 ##### 0xlilith@protonmail.com
