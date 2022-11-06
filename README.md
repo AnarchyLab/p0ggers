@@ -1,2 +1,8 @@
-# p0ggers
-Malware implementation in Go
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/86065741/200192716-6ec40265-67f5-403b-9ae5-a93c735cbeb2.png" width="150px"><br>
+    p0ggers
+</h1>
+
+<p align="center">
+    Malware implementation in Go
+</p>
