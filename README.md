@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    Malware implementation in Go</br>by Anarchy Lab
+    Malware implementation in Go</br>by Anarchy Lab 🔥
 </p>
 
 ## 🚧 Under Development
