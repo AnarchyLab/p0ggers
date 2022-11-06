@@ -4,8 +4,11 @@
 </h1>
 
 <p align="center">
-    Malware implementation in Go
+    Malware implementation in Go Anarchy Lab
 </p>
 <br>
 
 ## 🚧 Under Development
+
+## Contact
+##### 0xlilith@protonmail.com
